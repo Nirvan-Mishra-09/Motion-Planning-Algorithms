@@ -18,7 +18,8 @@ Code Overview:
 
 Step 1: Using opencv to create a map, with clearance given by the user.
 
-![map](https://github.com/Nirvan-Mishra-09/dijkstra_path_finding/assets/127642231/07aaf7e9-e2cb-45d4-834c-8cbac8e96310)
+![map](https://github.com/Nirvan-Mishra-09/Motion-Planning-Algorithms/assets/127642231/4caa5de5-708e-45ff-8f9c-22a52da425e2)
+
 
 
 Step 2: Creating user interface and checking for valid inputs.
