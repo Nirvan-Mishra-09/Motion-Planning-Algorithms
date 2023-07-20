@@ -18,7 +18,8 @@ Code Overview:
 
 Step 1: Using opencv to create a map, with clearance given by the user.
 
-![map](https://github.com/Nirvan-Mishra-09/Motion-Planning-Algorithms/assets/127642231/4caa5de5-708e-45ff-8f9c-22a52da425e2)
+![map](https://github.com/Nirvan-Mishra-09/Motion-Planning-Algorithms/assets/127642231/1da78fa1-47a0-4468-833a-e8b9965f92b1)
+
 
 
 
