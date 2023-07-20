@@ -48,7 +48,11 @@ Path taken:
 
 
 
-https://github.com/Nirvan-Mishra-09/dijkstra_path_finding/assets/127642231/6c50413f-04eb-44cd-a223-972e80558d3e
+
+
+https://github.com/Nirvan-Mishra-09/Motion-Planning-Algorithms/assets/127642231/d4177d9d-343c-48b2-996b-fb68dcc3ac8d
+
+
 
 
 
