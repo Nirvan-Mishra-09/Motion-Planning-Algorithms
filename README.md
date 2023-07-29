@@ -43,7 +43,8 @@ Step 5: Results
 
 User input: 
 
-![results](https://github.com/Nirvan-Mishra-09/dijkstra_path_finding/assets/127642231/14f8c7b7-574e-4fa2-b641-088cb1a9ea84)
+![results](https://github.com/Nirvan-Mishra-09/dijkstra_path_finding/assets/127642231/c6834084-285d-4224-b9c5-8cc73e9434e9)
+
 
 
 Path taken:
