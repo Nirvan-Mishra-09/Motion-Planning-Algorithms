@@ -35,7 +35,8 @@ The cost of up, down, left, and right moves are '1', on the other hand, the rema
 
 Step 4: Implementing Dijkstra's algorithm, and finding the shortest path from start point and destination. 
 
-![Untitled Diagram](https://github.com/Nirvan-Mishra-09/dijkstra_path_finding/assets/127642231/c1a20639-5480-41ed-a294-42c8a243c181)
+![Untitled Diagram](https://github.com/Nirvan-Mishra-09/dijkstra_path_finding/assets/127642231/3bb6980d-b994-4282-bf15-1ebfc0839944)
+
 
 
 Step 5: Results 
