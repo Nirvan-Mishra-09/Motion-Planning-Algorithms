@@ -23,16 +23,17 @@ Step 1: Using opencv to create a map, with clearance given by the user.
 
 
 
-Step 2: Creating user interface and checking for valid inputs.
+Step 2: Create a user interface and check for valid inputs.
 
-Step 3: To define action set of the point robot, this robot can move in 8 directions up, down, left, right, up_right, up_left, down_right, and down_left. 
+Step 3: To define the action set of the point robot, this robot can move in 8 directions up, down, left, right, up_right, up_left, down_right, and down_left. 
 
-Cost of up, down, left, and right moves are '1', on the other hand the remaining moves have '1.4' as their costs.
+The cost of up, down, left, and right moves are '1', on the other hand, the remaining moves have '1.4' as their costs.
 
-![actionset](https://github.com/Nirvan-Mishra-09/dijkstra_path_finding/assets/127642231/8e3ed3e3-67d6-48b5-8b4b-be4f995d1931)
+![actionset](https://github.com/Nirvan-Mishra-09/dijkstra_path_finding/assets/127642231/2b684585-8463-4e4c-8046-b2a1359147ba)
 
 
-Step 4: Implementing dijkstra's algorithm, and finding the shortest path from start point and destination. 
+
+Step 4: Implementing Dijkstra's algorithm, and finding the shortest path from start point and destination. 
 
 ![Untitled Diagram](https://github.com/Nirvan-Mishra-09/dijkstra_path_finding/assets/127642231/c1a20639-5480-41ed-a294-42c8a243c181)
 
